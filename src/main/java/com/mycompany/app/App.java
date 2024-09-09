@@ -4,9 +4,8 @@ package com.mycompany.app;
  * Hello world!
  */
 public class App {
-
-    private static final String MESSAGE = "Hello World 2.0!";
-
+    private static final String MESSAGE = "Hello NCS 2.0!";
+  
     public App() {}
 
     public static void main(String[] args) {
